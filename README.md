@@ -1,0 +1,2 @@
+# friendlygo-phonegap
+friendlygo-phonegap
