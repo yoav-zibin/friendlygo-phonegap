@@ -4,19 +4,19 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         id          = "com.gamingplatform.friendlygo"
-        versionCode = "1"
-        version     = "1.0.0" >
+        versionCode = "2"
+        version     = "2.0.0" >
     <!-- versionCode is optional and Android only:
       needs to be increased every time you submit a new APK version.
       see: http://developer.android.com/tools/publishing/versioning.html
     -->
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-      <string>100</string>
+      <string>200</string>
     </gap:config-file>
 
     <content gap:platform="ios" src="https://friendlygo.com/?phonegapPlugins=ios.v101" />
     <content gap:platform="android" src="https://friendlygo.com/?phonegapPlugins=android.v101" />
-
+    
     <name>Friendly Go</name>
     <author email="yoav.zibin@gmail.com">
         yoav.zibin@gmail.com
