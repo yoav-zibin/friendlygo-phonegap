@@ -14,8 +14,7 @@
       <string>200</string>
     </gap:config-file>
 
-    <content gap:platform="ios" src="https://friendlygo.com/?phonegapPlugins=ios.v101" />
-    <content gap:platform="android" src="https://friendlygo.com/?phonegapPlugins=android.v101" />
+    <content src="https://friendlygo.com/?phonegapPlugins=v101" />
     
     <name>Friendly Go</name>
     <author email="yoav.zibin@gmail.com">
